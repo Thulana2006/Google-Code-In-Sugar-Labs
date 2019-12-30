@@ -1,2 +1,2 @@
 # Google-Code-In-Sugar-Labs
-My First Repository
+Hello Sugar Labs
